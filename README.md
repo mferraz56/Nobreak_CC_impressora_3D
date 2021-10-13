@@ -1,2 +1,2 @@
-# Nobreak_CC_impressora_3D
- 
+<h1 align="center"> Nobreak CC </h1>
+<p align="center"> O intuito do projeto é desenvolver o produto que seja capaz de identificar a falta na rede e adicionar o banco de bateria no circuito antes que a impressora desligue com o intuito de proteger e prevenir a perca de impressões. </p>
