@@ -3,7 +3,9 @@
 <h4 align="center"> 
 	🚧 Em construção...  🚧
 </h4>
-### Features
+
+### Andamento
+
 - [x] Modelagem bateria
 - [x] Modelagem BMS
 - [ ] Modelagem circuito de controle
