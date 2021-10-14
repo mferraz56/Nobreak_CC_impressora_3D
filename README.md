@@ -11,7 +11,7 @@
 ### Andamento
 - [x] Modelagem bateria
 - [x] Modelagem BMS
-- [ ] Simulação e emulação do circuito de forma simplificada
+- [x] Simulação e emulação do circuito de forma simplificada
 - [ ] Aquisição de componentes 
 - [ ] Montagem do circuito 
 - [ ] Modelagem circuito de controle
