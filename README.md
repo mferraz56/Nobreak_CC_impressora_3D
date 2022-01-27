@@ -1,6 +1,6 @@
 <h1 align="center"> Nobreak CC </h1>
 
-![alt text](https://github.com/mferraz56/Nobreak_CC_impressora_3D/blob/main/Modelagem/Imagens/Vista_BMS.jpg)
+![alt text](https://github.com/mferraz56/Nobreak_CC_impressora_3D/blob/main/Modelagem/Imagens/vis%C3%A3o.gif)
 
 <p align="center"> O intuito do projeto é desenvolver o produto que seja capaz de identificar a falta na rede e adicionar o banco de bateria no circuito antes que a impressora desligue com o intuito de proteger e prevenir a perca de impressões. </p>
 
