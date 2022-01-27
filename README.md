@@ -14,6 +14,11 @@
 - [x] Simulação e emulação do circuito de forma simplificada
 - [ ] Aquisição de componentes 
 - - [x] BMS
+- - [ ] Baterias
+- - [ ] Compontentes eletronicos em geral
+- - [ ] Aquisição ou Fabricação PCB
 - [ ] Montagem do circuito 
 - [ ] Modelagem circuito de controle
+- [ ] Desenho Placa Circuito Impresso
 - [ ] Modelagem cases
+- [ ] Impressão Cases
