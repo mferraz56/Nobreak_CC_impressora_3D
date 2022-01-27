@@ -13,6 +13,7 @@
 - [x] Modelagem BMS
 - [x] Simulação e emulação do circuito de forma simplificada
 - [ ] Aquisição de componentes 
+- - [x] BMS
 - [ ] Montagem do circuito 
 - [ ] Modelagem circuito de controle
 - [ ] Modelagem cases
