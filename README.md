@@ -15,17 +15,18 @@
 - [ ] Aquisição de componentes 
 - - [x] BMS
 - - [ ] Baterias
-- - [ ] Compontentes eletronicos em geral
+- - [x] Compontentes eletronicos em geral ( pendente ATmega328)
 - - [x] Aquisição ou Fabricação PCB
+- [x] Desenho Placa Circuito Impresso
 - [ ] Montagem do circuito 
 - [ ] Modelagem circuito de controle
-- [ ] Desenho Placa Circuito Impresso
 - [ ] Modelagem cases
 - [ ] Impressão Cases
 
-
 ![alt text](https://github.com/mferraz56/Nobreak_CC_impressora_3D/blob/main/Modelagem/Imagens/vis%C3%A3o.gif)
 
+
 ![alt text](https://github.com/mferraz56/Nobreak_CC_impressora_3D/blob/main/PCB/imagem.PNG)
+
 
 ![alt text](https://github.com/mferraz56/Nobreak_CC_impressora_3D/blob/main/PCB/layout.PNG)
