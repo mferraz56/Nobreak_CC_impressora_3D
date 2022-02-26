@@ -1,5 +1,5 @@
 unsigned long tempo_anterior = 0; // variavel
-const long intervalo = 5000;      //Intervalo 5 seg
+const long intervalo = 50;      //Intervalo 50 miliseg
 
 int LedAzul = 4;
 int LedVerde = 5;
