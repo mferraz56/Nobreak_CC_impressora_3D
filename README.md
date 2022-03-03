@@ -33,3 +33,5 @@
 
 
 ![alt text](https://github.com/mferraz56/Nobreak_CC_impressora_3D/blob/main/PCB/layout.PNG)
+
+![alt text](https://github.com/mferraz56/Nobreak_CC_impressora_3D/blob/main/PCB/PCB.png)
