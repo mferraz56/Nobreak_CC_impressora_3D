@@ -26,7 +26,16 @@
 - [ ] Modelagem cases
 - [ ] Impressão Cases
 
+<h2> 
+<p align="center">
+Para realização da modelagem 3d, foi utilziado o software fusion 360.
+<p>
+
 ![alt text](https://github.com/mferraz56/Nobreak_CC_impressora_3D/blob/main/Modelagem/Imagens/vis%C3%A3o.gif)
+
+</h2>
+
+
 
 
 ![alt text](https://github.com/mferraz56/Nobreak_CC_impressora_3D/blob/main/PCB/imagem.PNG)
