@@ -1,4 +1,4 @@
-<p align="center"> Deseja Apoiar? chave pix: muriloferraz56@gmail.com </p>
+<p align="center"> D </p>
 
 <h1 align="center"> Nobreak CC </h1>
 
